@@ -1,3 +1,6 @@
+# need to update the 8Queens program so that it contains a way of adding an image for the queen
+# is the image of the queen royalty free?
+
 import json
 
 class move:
